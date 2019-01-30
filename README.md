@@ -1,1 +1,1 @@
-# Sistema-de-Trazabilidad-de-Tr-mites-Escolares
+# Sistema de Trazabilidad de Trámites Escolares
