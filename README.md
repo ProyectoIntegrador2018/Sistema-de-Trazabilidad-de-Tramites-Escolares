@@ -24,6 +24,9 @@ Aplicación web que permite visualizar el estatus de los trámites escolares en 
 
 ## URLs de ambiente
 
+* Production - TBD
+* Development - TBD
+
 ## Equipo
 
 | Nombre | Email | Rol |
