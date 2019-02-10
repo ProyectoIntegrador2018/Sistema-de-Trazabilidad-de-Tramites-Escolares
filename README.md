@@ -11,10 +11,6 @@ Aplicación web que permite visualizar el estatus de los trámites escolares en 
 * [Crear el proyecto](#crear-el-proyecto)
 * [Correr el proyecto para desarrollo](#correr-el-proyecto-para-desarrollo)
 * [Detener el proyecto](#detener-el-proyecto)
-* [Restaurando la base de datos](#restaurando-la-base-de-datos)
-* [Debugging](#debugging)
-* [Corriendo especificaciones](#corriendo-especificaciones)
-* [Comprobar el codigo para posibles problemas](#comprobar-el-codigo-para-posibles-problemas)
 
 ## Detalles del cliente
 
@@ -44,17 +40,22 @@ Aplicación web que permite visualizar el estatus de los trámites escolares en 
 
 ## Crear el proyecto
 
+1. Clonar el repositorio
+```
+$ git clone https://github.com/ProyectoIntegrador2018/stte-backend.git
+```
 ## Correr el proyecto para desarrollo
 
+* pip
+
+Ya instalado si se está usando Python 2 >=2.7.9 o Python 3 >=3.4
+
+* Flask
+```
+$ pip install -U Flask
+```
 ## Detener el proyecto
 Para detener el servidor simplemente oprime estas teclas:
 ```
-% CTRL+C
+$ CTRL+C
 ```
-## Restaurando la base de datos
-
-## Debugging
-
-## Corriendo especificaciones
-
-## Comprobar el codigo para posibles problemas
