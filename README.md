@@ -47,7 +47,10 @@ Aplicación web que permite visualizar el estatus de los trámites escolares en 
 ## Correr el proyecto para desarrollo
 
 ## Detener el proyecto
-
+Para detener el servidor simplemente oprime estas teclas:
+```
+% CTRL+C
+```
 ## Restaurando la base de datos
 
 ## Debugging
