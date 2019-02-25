@@ -1,22 +1,19 @@
-**Como < Rol > puedo < acción > para < justificación >**
+---
+name: User Story
+about: Documenta una nueva funcionalidad por crear
 
-**Conversación**
+---
 
+Como < tipo de usuario > se podrá < descripción de la funcionalidad > para < objetivo >
+
+## Conversación
 < Detalles adicionales >
 
-**To Do**
+## To Do
+- [ ] < Tareas por realizar >
 
- - [ ] < Tareas >
- 
- **Comprobación**
- 
-< Criterios de aceptación >
+## Criterios de aceptación
+- < Criterios a completar para asegurar que la historia es aceptada >
 
-**Conversación**
-
-< Reglas de negocio >
-
-< Requerimientos no funcionales >
-
-< Otras consideraciones >
-
+## Relaciones
+- #< id del issue relacionado >
